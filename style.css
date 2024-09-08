@@ -1,0 +1,43 @@
+#owner {
+    color: aqua;
+    border: solid 2px;
+    text-align: center;
+}
+#manager {
+   border: solid 2px;
+  color: hotpink;
+  font-weight:bold;
+    text-align: center;
+}
+#developer {
+   border: solid 2px;
+  color: blue;
+  font-weight:bold;
+    text-align: center;
+}
+#admin {
+  border: solid 2px;
+  color: red;
+  font-weight:bold;
+    text-align: center;
+}
+#mod {
+  border: solid 2px green;
+  color: green;
+  font-weight:bold;
+    text-align: center;
+}
+#trainee {
+  color:green;
+  font-weight:bold;
+  text-align: center;
+   border: solid 2px lightblue;
+}
+#button {
+    color: aqua;
+    border: solid 2px;
+}
+#head {
+    color: aqua;
+    text-align: center;
+}
